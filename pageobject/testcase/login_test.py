@@ -12,8 +12,8 @@ class LoginTest(BaseTestCase):
 
     def test_login(self):
         obj = get_page("login", self.driver)
-        obj.username = "beehive_admin"
-        obj.password = "1qaz2wsx"
+        obj.username = "xxxxx"
+        obj.password = "xxxxx"
         obj.submit()
         import time
         time.sleep(5)
