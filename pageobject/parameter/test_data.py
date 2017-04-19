@@ -7,9 +7,4 @@ new_user_role = {"common": u'普通用户',
 user_list_search_by = {"loginname": u'登录名',
                        "name": u'姓名',
                        }
-location = {"building": "S2",
-            "floor": "S212",
-            "area": "S212M",
-            "block": "S212M-W",
-            "seat": "S212M-W01",
-            }
+location = {}
