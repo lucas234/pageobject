@@ -7,7 +7,7 @@ from selenium.webdriver.common.action_chains import ActionChains
 
 
 class BasePage(object):
-    base_url = "http://120.77.83.143:8081/"
+    base_url = "http://xxx.xxx.xx.xx:xxxx/"
 
     def __init__(self, driver):
         if self.base_url[-1] != '/':
