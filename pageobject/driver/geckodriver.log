@@ -1,0 +1,89 @@
+1490950478726	geckodriver	INFO	Listening on 127.0.0.1:51578
+1490950480861	mozprofile::profile	INFO	Using profile path /var/folders/3t/0_v1cj4s3j18wghsk4xszm780000gn/T/rust_mozprofile.j7dDbLX0WJU0
+1490950480864	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490950480960	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51587
+1490950485410	Marionette	INFO	Listening on port 51587
+1490950575990	geckodriver	INFO	Listening on 127.0.0.1:51687
+1490950576180	mozprofile::profile	INFO	Using profile path /var/folders/3t/0_v1cj4s3j18wghsk4xszm780000gn/T/rust_mozprofile.I0HxjdMUw3es
+1490950576182	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490950576186	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51694
+1490950578063	Marionette	INFO	Listening on port 51694
+1490950579594	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-31 16:56:36.635 plugin-container[46297:3715970] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4953, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 16:56:36.646 plugin-container[46297:3715970] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9203, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 16:56:36.646 plugin-container[46297:3715970] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1490951274979	geckodriver	INFO	Listening on 127.0.0.1:52146
+1490951277462	mozprofile::profile	INFO	Using profile path /var/folders/3t/0_v1cj4s3j18wghsk4xszm780000gn/T/rust_mozprofile.9X0bYzSjdusY
+1490951277464	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490951277477	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52155
+1490951282612	Marionette	INFO	Listening on port 52155
+1490951284275	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-31 17:08:13.050 plugin-container[46340:3721060] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:08:13.052 plugin-container[46340:3721060] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5407, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:08:13.052 plugin-container[46340:3721060] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1490951315483	geckodriver	INFO	Listening on 127.0.0.1:52272
+1490951317137	mozprofile::profile	INFO	Using profile path /var/folders/3t/0_v1cj4s3j18wghsk4xszm780000gn/T/rust_mozprofile.qQLraGEPn3zw
+1490951317140	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490951317146	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52281
+1490951322091	Marionette	INFO	Listening on port 52281
+1490951323875	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-31 17:08:48.806 plugin-container[46352:3721587] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:08:48.808 plugin-container[46352:3721587] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x930b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:08:48.808 plugin-container[46352:3721587] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1490951334339	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began (resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:464:17) JS Stack trace: this.XPIDatabase.saveChanges@XPIProviderUtils.js:464:17 < this.XPIProvider.verifySignatures/</<@XPIProvider.jsm:3268:9
+1490951359835	geckodriver	INFO	Listening on 127.0.0.1:52391
+1490951361646	mozprofile::profile	INFO	Using profile path /var/folders/3t/0_v1cj4s3j18wghsk4xszm780000gn/T/rust_mozprofile.zEJk6dLUKdcj
+1490951361648	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490951361652	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52400
+1490951365145	Marionette	INFO	Listening on port 52400
+1490951366250	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-31 17:09:29.273 plugin-container[46363:3722152] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8b3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:09:29.274 plugin-container[46363:3722152] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5307, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:09:29.274 plugin-container[46363:3722152] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1490951415223	geckodriver	INFO	Listening on 127.0.0.1:52481
+1490951416408	mozprofile::profile	INFO	Using profile path /var/folders/3t/0_v1cj4s3j18wghsk4xszm780000gn/T/rust_mozprofile.hhHW3gQSwkvB
+1490951416411	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490951416415	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52490
+1490951418157	Marionette	INFO	Listening on port 52490
+1490951419670	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-31 17:10:23.549 plugin-container[46381:3722596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:10:23.550 plugin-container[46381:3722596] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x501f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:10:23.550 plugin-container[46381:3722596] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1490952196313	geckodriver	INFO	Listening on 127.0.0.1:52582
+1490952197684	mozprofile::profile	INFO	Using profile path /var/folders/3t/0_v1cj4s3j18wghsk4xszm780000gn/T/rust_mozprofile.4zeCFqh8FIUM
+1490952197686	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490952197690	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52591
+1490952199335	Marionette	INFO	Listening on port 52591
+1490952200283	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-31 17:23:23.067 plugin-container[46435:3726278] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:23:23.067 plugin-container[46435:3726278] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5207, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:23:23.068 plugin-container[46435:3726278] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1490952223219	geckodriver	INFO	Listening on 127.0.0.1:52639
+1490952224407	mozprofile::profile	INFO	Using profile path /var/folders/3t/0_v1cj4s3j18wghsk4xszm780000gn/T/rust_mozprofile.lAC89L2NNm6B
+1490952224409	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args []
+1490952224413	geckodriver::marionette	INFO	Connecting to Marionette on localhost:52648
+1490952226716	Marionette	INFO	Listening on port 52648
+1490952227891	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-03-31 17:23:50.903 plugin-container[46444:3726693] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8a3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:23:50.905 plugin-container[46444:3726693] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-03-31 17:23:50.905 plugin-container[46444:3726693] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions

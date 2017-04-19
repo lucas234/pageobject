@@ -1,0 +1,44 @@
+Wed, 12 Apr 2017 17:23:07 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/url {"url": "http://120.77.83.143:8081/beehive-front/index.html#/cn/app/secure/UserLogin", "sessionId": "019202a4-df68-6341-980b-cea208b654dc"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "css selector", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "[name=\"username\"]"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "css selector", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "[name=\"username\"]"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/e5505a5f-4310-8f40-bf0c-259fc3ce7516/clear {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "e5505a5f-4310-8f40-bf0c-259fc3ce7516"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "css selector", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "[name=\"username\"]"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/e5505a5f-4310-8f40-bf0c-259fc3ce7516/value {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "e5505a5f-4310-8f40-bf0c-259fc3ce7516", "value": ["b", "e", "e", "h", "i", "v", "e", "_", "a", "d", "m", "i", "n"]}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "css selector", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "[name=\"password\"]"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "css selector", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "[name=\"password\"]"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/c55fa34f-4b3e-1747-bbbd-01adba4da90c/clear {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "c55fa34f-4b3e-1747-bbbd-01adba4da90c"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "css selector", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "[name=\"password\"]"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/c55fa34f-4b3e-1747-bbbd-01adba4da90c/value {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "c55fa34f-4b3e-1747-bbbd-01adba4da90c", "value": ["1", "q", "a", "z", "2", "w", "s", "x"]}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "xpath", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "//button[@type='submit']/span"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/24ba897a-5a19-8c40-975e-849f434568b8/click {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "24ba897a-5a19-8c40-975e-849f434568b8"}
+Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:20 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "link text", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "\u89c4\u5219\u7ba1\u7406"}
+Wed, 12 Apr 2017 17:23:20 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:20 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/a343ccc2-d88b-264a-84e3-97f8a611e797/click {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "a343ccc2-d88b-264a-84e3-97f8a611e797"}
+Wed, 12 Apr 2017 17:23:20 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:25 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "xpath", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "//*[@id=\"wrapper\"]/div/aside[2]/section/div/div/div/div/div/div[1]/div/div/table/tbody/tr[2]/td[2]"}
+Wed, 12 Apr 2017 17:23:56 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:56 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/elements {"using": "xpath", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "//*[@id=\"wrapper\"]/div/aside[2]/section/div/div/div/div/div/div[1]/div/div/table/tbody/tr"}
+Wed, 12 Apr 2017 17:23:56 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:56 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/elements {"using": "xpath", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "//*[@id=\"wrapper\"]/div/aside[2]/section/div/div/div/div/div/div[1]/div/div/table/tbody/tr"}
+Wed, 12 Apr 2017 17:23:56 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:56 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/elements {"using": "xpath", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "//*[@id=\"wrapper\"]/div/aside[2]/section/div/div/div/div/div/div[1]/div/div/table/tbody/tr"}
+Wed, 12 Apr 2017 17:23:56 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:56 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "xpath", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "//*[@id=\"wrapper\"]/div/aside[2]/section/div/div/div/div/div/div[1]/div/div/table/tbody/tr[1]/td[2]"}
+Wed, 12 Apr 2017 17:23:56 [line:528] Finished Request
+Wed, 12 Apr 2017 17:23:56 [line:429] GET http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/c2dca665-c5f9-4448-a255-500624658734/text {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "c2dca665-c5f9-4448-a255-500624658734"}
+Wed, 12 Apr 2017 17:23:56 [line:528] Finished Request
+Wed, 12 Apr 2017 17:24:16 [line:429] DELETE http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc {"sessionId": "019202a4-df68-6341-980b-cea208b654dc"}
+Wed, 12 Apr 2017 17:24:16 [line:528] Finished Request
