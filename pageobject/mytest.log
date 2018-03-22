@@ -17,7 +17,7 @@ Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
 Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/c55fa34f-4b3e-1747-bbbd-01adba4da90c/clear {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "c55fa34f-4b3e-1747-bbbd-01adba4da90c"}
 Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
 Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "css selector", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "[name=\"password\"]"}
-Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
+222222:Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
 Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element/c55fa34f-4b3e-1747-bbbd-01adba4da90c/value {"sessionId": "019202a4-df68-6341-980b-cea208b654dc", "id": "c55fa34f-4b3e-1747-bbbd-01adba4da90c", "value": ["1", "q", "a", "z", "2", "w", "s", "x"]}
 Wed, 12 Apr 2017 17:23:15 [line:528] Finished Request
 Wed, 12 Apr 2017 17:23:15 [line:429] POST http://127.0.0.1:61348/session/019202a4-df68-6341-980b-cea208b654dc/element {"using": "xpath", "sessionId": "019202a4-df68-6341-980b-cea208b654dc", "value": "//button[@type='submit']/span"}
